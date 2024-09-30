@@ -1,4 +1,4 @@
-# chat
+# Chat App
 This is a simple Chat Application built using Flutter and Firebase. The app allows users to send and receive messages in real time, providing a smooth and responsive chatting experience.
 ## Features
 - **Real-time messaging: Instantly send and receive messages.**
